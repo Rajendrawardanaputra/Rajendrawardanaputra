@@ -1,5 +1,5 @@
 # 💫 About Me:
-he said want to work as a web development? please follow first
+Junior Backend Development
 
 
 ## 🌐 Socials:
