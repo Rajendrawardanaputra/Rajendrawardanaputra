@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Backend Development
+Junior FullStack and Mobile
 
 
 ## 🌐 Socials:
